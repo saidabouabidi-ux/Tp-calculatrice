@@ -1,5 +1,6 @@
 import unittest
-from src.calculatrice import addition, soustraction, multiplication, division
+
+from calculatrice import addition, soustraction, multiplication, division
 
 class TestCalculatrice(unittest.TestCase):
 
